@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pause Shop\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "The purchase function has been disabled while we are performing maintenance on the site. We will be back shortly."
+msgstr ""
+
+msgid "Pause shop Settings"
+msgstr ""
+
+msgid "Pause on demand"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Unpaused"
+msgstr ""
+
+msgid "Pause shop"
+msgstr ""
+
+msgid "Unpause shop"
+msgstr ""
+
+msgid "Scheduled pause"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "E.g. Europe/London"
+msgstr ""
+
+msgid "Begin time"
+msgstr ""
+
+msgid "E.g. 08:00:00"
+msgstr ""
+
+msgid "End time"
+msgstr ""
+
+msgid "E.g. 08:30:00"
+msgstr ""
+
+msgid "Periodicity"
+msgstr ""
+
+msgid "Begin date"
+msgstr ""
+
+msgid "daily"
+msgstr ""
+
+msgid "weekly"
+msgstr ""
+
+msgid "monthly"
+msgstr ""
+
+msgid "Available REST endpoints"
+msgstr ""
+
+msgid "If you like this plugin and want me to keep working on it, please consider buying me a coffee :)"
+msgstr ""
+
+msgid "Buy Me a Coffee at ko-fi.com"
+msgstr ""
+
+msgid "Donations"
+msgstr ""
+
+msgid "Enable scheduled pause"
+msgstr ""
+
+msgid "WordPress documentation"
+msgstr ""
+
+msgid "You can use application passwords to authenticate. See the WordPress documentation for more information."
+msgstr ""
+
+msgid "Source code"
+msgstr ""
+
+msgid "Endpoint"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Disable the add-to-cart and checkout buttons, and show a notice."
+msgstr ""
+
+msgid "Enable the add-to-cart and checkout buttons, and hide the notice."
+msgstr ""
+
+msgid "Return the current on-demand pause status."
+msgstr ""
+
+msgid "Return the current scheduled pause status."
+msgstr ""
+
+msgid "Set timezone for the scheduled pause."
+msgstr ""
+
+msgid "Get timezone for the scheduled pause."
+msgstr ""
+
+msgid "Set begin time for the scheduled pause."
+msgstr ""
+
+msgid "Get begin time for the scheduled pause."
+msgstr ""
+
+msgid "Set end time for the scheduled pause."
+msgstr ""
+
+msgid "Get end time for the scheduled pause."
+msgstr ""
+
+msgid "Enable the scheduled pause."
+msgstr ""
+
+msgid "Disable the scheduled pause."
+msgstr ""
+
+msgid "Return the current scheduled pause status."
+msgstr ""
+
+msgid "Set periodicity for the scheduled pause."
+msgstr ""
+
+msgid "Get periodicity for the scheduled pause."
+msgstr ""
+
+msgid "Set begin date for the scheduled pause."
+msgstr ""
+
+msgid "Get begin date for the scheduled pause."
+msgstr ""
+
+msgid "Input data example"
+msgstr ""

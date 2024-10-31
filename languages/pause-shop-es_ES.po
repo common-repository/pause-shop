@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pause shop\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "The purchase function has been disabled while we are performing maintenance on the site. We will be back shortly."
+msgstr "La función de compra se ha deshabilitado mientras realizamos tareas de mantenimiento en el sitio. Volvemos en breve."
+
+msgid "Pause shop Settings"
+msgstr "Configuración de Pause shop"
+
+msgid "Pause on demand"
+msgstr "Pausa bajo demanda"
+
+msgid "State"
+msgstr "Estado"
+
+msgid "Paused"
+msgstr "Pausado"
+
+msgid "Unpaused"
+msgstr "No pausado"
+
+msgid "Pause shop"
+msgstr "Pausar la tienda"
+
+msgid "Unpause shop"
+msgstr "Despausar la tienda"
+
+msgid "Scheduled pause"
+msgstr "Pausa programada"
+
+msgid "Timezone"
+msgstr "Zona horaria"
+
+msgid "E.g. Europe/London"
+msgstr "P.ej. Europe/London"
+
+msgid "Begin time"
+msgstr "Hora de comienzo"
+
+msgid "E.g. 08:00:00"
+msgstr "P.ej. 08:00:00"
+
+msgid "End time"
+msgstr "Hora de finalización"
+
+msgid "E.g. 08:30:00"
+msgstr "P.ej. 08:30:00"
+
+msgid "Periodicity"
+msgstr "Periodicidad"
+
+msgid "Begin date"
+msgstr "Fecha de comienzo"
+
+msgid "daily"
+msgstr "diariamente"
+
+msgid "weekly"
+msgstr "semanalmente"
+
+msgid "monthly"
+msgstr "mensualmente"
+
+msgid "Available REST endpoints"
+msgstr "REST endpoints disponibles"
+
+msgid "If you like this plugin and want me to keep working on it, please consider buying me a coffee :)"
+msgstr "Si te gusta este plugin y quieres que siga trabajando en él, considera comprarme un café :)"
+
+msgid "Buy Me a Coffee at ko-fi.com"
+msgstr "Invítame a un café en ko-fi.com"
+
+msgid "Donations"
+msgstr "Donaciones"
+
+msgid "Enable scheduled pause"
+msgstr "Habilitar pausa programada"
+
+msgid "WordPress documentation"
+msgstr "Documentación de WordPress"
+
+msgid "You can use application passwords to authenticate. See the WordPress documentation for more information."
+msgstr "Puedes usar contraseñas de aplicación para autenticarte. Consulta la documentación de WordPress para obtener más información."
+
+msgid "Source code"
+msgstr "Código fuente"
+
+msgid "Endpoint"
+msgstr "Endpoint"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Disable the add-to-cart and checkout buttons, and show a notice."
+msgstr "Deshabilitar los botones de añadir al carrito y de pago, y mostrará una notificación."
+
+msgid "Enable the add-to-cart and checkout buttons, and hide the notice."
+msgstr "Habilitar los botones de añadir al carrito y de pago, y ocultará la notificación."
+
+msgid "Return the current on-demand pause status."
+msgstr "Obtiene el estado actual de la pausa bajo demanda."
+
+msgid "Return the current scheduled pause status."
+msgstr "Obtiene el estado actual de la pausa programada."
+
+msgid "Set timezone for the scheduled pause."
+msgstr "Fija la zona horaria para la pausa programada."
+
+msgid "Get timezone for the scheduled pause."
+msgstr "Obtiene la zona horaria para la pausa programada."
+
+msgid "Set begin time for the scheduled pause."
+msgstr "Fija la hora de comienzo para la pausa programada."
+
+msgid "Get begin time for the scheduled pause."
+msgstr "Obtiene la hora de comienzo para la pausa programada."
+
+msgid "Set end time for the scheduled pause."
+msgstr "Fija la hora de finalización para la pausa programada."
+
+msgid "Get end time for the scheduled pause."
+msgstr "Obtiene la hora de finalización para la pausa programada."
+
+msgid "Enable the scheduled pause."
+msgstr "Habilita la pausa programada."
+
+msgid "Disable the scheduled pause."
+msgstr "Deshabilita la pausa programada."
+
+msgid "Return the current scheduled pause status."
+msgstr "Obtiene el estado actual de la pausa programada."
+
+msgid "Set periodicity for the scheduled pause."
+msgstr "Fija la periodicidad para la pausa programada."
+
+msgid "Get periodicity for the scheduled pause."
+msgstr "Obtiene la periodicidad para la pausa programada."
+
+msgid "Set begin date for the scheduled pause."
+msgstr "Fija la fecha de comienzo para la pausa programada."
+
+msgid "Get begin date for the scheduled pause."
+msgstr "Obtiene la fecha de comienzo para la pausa programada."
+
+msgid "Input data example"
+msgstr "Ejemplo de datos de entrada"
